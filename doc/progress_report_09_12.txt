@@ -1,13 +1,11 @@
 Project Introduction
 
-EMS Data set:
+In this project, we are working with Guilford County Emergency Medical Services, EMS Data set. This Data set inludes call records from the following agencies since 2012 and still get updated once a week:
 
-This data set has Emergency Medical Services (2012 to current and still get updated once a week)
-    This includes:
-* GCSD, Guilford County Sheriff Department 
-* GCF, Guilford County Fire Department
-* EMS, Emergency Medical Service
-* ACO,Animal Control
+- GCSD, Guilford County Sheriff Department 
+- GCF, Guilford County Fire Department
+- EMS, Emergency Medical Service
+- ACO,Animal Control
 
 We are taking out the ACO because it isn’t very accurate, because the people bring animals that  aren't always from Guilford county.
 This data set include things Nature of the call, time. Service, agency, district, seconds until arrival, Seconds until dispatch and more seconds 
