@@ -27,17 +27,17 @@ On the new dataset that has geo locations:
 - Filter out where cancelled calls field = True, report only field = True, nature = Transport to Animal Shelter, 
 - Remove unnecessary fields related to location as: statbeat, ra
 - Associate codes for text fields
-- Manipulate calltime field: split into 2 fields: year, time
+- Manipulate calltime field: split into many fields: year, month, day, dayOfWeek (already exists), hour, and minute.
 
 Topics/ Hypothesis/ Assigned Tasks
  - Relationships between trending natures for calls and each agency; patterns between geographic area and leading calls’ natures; identification of predictors of emergency call categorization as “sick person”-later on if time permits.(Oana)
-- Correlate time of the call with the nature of the call(Jason said this was a big interest for them)(Saed)
- - Response reaction time based on nature(Jason said this was a big interest for them)(Linh)
- - Nature and matching priority(priority always based on operator, is it over time changed)(Daniel)
+- Correlate time of the call with the nature of the call, and understand the patterns in which the calls happen in terms of time as hours, days, and months. (Jason said this was a big interest for them)(Saed)
+ - Response reaction time based on nature (Jason said this was a big interest for them)(Linh)
+ - Nature and matching priority (priority always based on operator, is it over time changed)(Daniel)
 
 Later - need more Data for these topics
-Geo location  and natures( multiple people will probably work on this)
-Social economics and calls/ nature(not sure we want to do this topic)
+Geo location  and natures (multiple people will probably work on this)
+Social economics and calls/nature (not sure we want to do this topic)
 
 
 
