@@ -1,0 +1,45 @@
+Project Introduction
+
+EMS Data set:
+
+This data set has Emergency Medical Services (2012 to current and still get updated once a week)
+    This includes:
+GCSD Guilford County Sheriff Department 
+GCF Guilford County Fire Department
+EMS     Emergency Medical Service
+ACO Animal Control
+
+We are taking out the ACO because it isn’t very accurate, because the people bring animals that  aren't always from Guilford county.
+This data set include things Nature of the call, time. Service, agency, district, seconds until arrival, Seconds until dispatch and more seconds 
+
+The goals of the project are related to the major feature of the data, calls:       
+1. trending natures for calls and reasons for trending?                                        
+2. are the emergency resources used efficiently or poorly?                              
+3. suggestion for improving the resources usage?
+
+To get answers to the questions, here are the established goals:
+*To find relationships between different natures of the calls and agencies.
+*To find high call volumes and correlate that to events, areas, or agencies.
+*To find relations between high call volumes and socio-economic factors
+
+Tasks
+
+Data cleaning and manipulation
+On the new dataset that has geo locations:
+-filter out where cancelled calls field = True, report only field = True, nature = Transport to Animal Shelter, 
+-remove unnecessary fields related to location as: statbeat, ra
+-associate codes for text fields
+-manipulate calltime field: split into 2 fields: year, time
+
+Topics/ Hypothesis
+*Relationships between trending natures for calls and each agency; patterns between geographic area and leading calls’ natures; identification of predictors of emergency call categorization as “sick person”-later on if time permits.(Oana)
+*Correlate time of the call with the nature of the call(Jason said this was a big interest for them)(Saed)
+*Response reaction time based on nature(Jason said this was a big interest for them)(Linh)
+*Nature and matching priority(priority always based on operator, is it over time changed)(Daniel)
+
+Later - need more Data for these topics
+Geo location  and natures( multiple people will probably work on this)
+Social economics and calls/ nature(not sure we want to do this topic)
+
+
+
