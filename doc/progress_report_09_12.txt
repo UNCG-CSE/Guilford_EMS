@@ -33,6 +33,7 @@ Topics/ Hypothesis/ Assigned Tasks
  - Relationships between trending natures for calls and each agency; patterns between geographic area and leading calls’ natures; identification of predictors of emergency call categorization as “sick person”-later on if time permits.(Oana)
 - Correlate time of the call with the nature of the call, and understand the patterns in which the calls happen in terms of time as hours, days, and months. (Jason said this was a big interest for them)(Saed)
  - Response reaction time based on nature (Jason said this was a big interest for them)(Linh)
+ - Update readme.md (Linh Tran)
  - Nature and matching priority (priority always based on operator, is it over time changed)(Daniel)
 
 Later - need more Data for these topics
