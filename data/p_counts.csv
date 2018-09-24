@@ -1,0 +1,39 @@
+agency,priority,p_count,classification,actual_prioritization
+ACO,1,12,Other,4
+ACO,2,4,Other,4
+ACO,3,12097,Second,2
+ACO,4,4,Other,4
+ACO,5,1,Other,4
+ACO,7,8216,Third,3
+ACO,8,1,Other,4
+ACO,9,58917,Other,4
+ACO,P,16685,First,1
+EMS,1,140994,Life Threat,2
+EMS,2,93189,Potential Life Threat,3
+EMS,3,65313,Other,4
+EMS,4,126837,Other,4
+EMS,5,33765,Other,4
+EMS,6,19,Other,4
+EMS,7,1413,Other,4
+EMS,8,4,Other,4
+EMS,9,55,Other,4
+EMS,P,6966,Imminent Life Threat,1
+GCF,1,7829,Unknown,2
+GCF,2,6300,Unknown,3
+GCF,3,5665,Unknown,4
+GCF,4,2059,Unknown,5
+GCF,5,2350,Unknown,6
+GCF,7,3335,Unknown,7
+GCF,8,1,Unknown,8
+GCF,9,162,Unknown,9
+GCF,P,52006,Unknown,1
+GCSD,1,153140,All Other,2
+GCSD,2,154469,All Other,2
+GCSD,3,20929,All Other,2
+GCSD,4,1108,All Other,2
+GCSD,5,1230,All Other,2
+GCSD,6,15,All Other,2
+GCSD,7,87360,All Other,2
+GCSD,8,988,All Other,2
+GCSD,9,18997,All Other,2
+GCSD,P,2370,Highest Priority,1
