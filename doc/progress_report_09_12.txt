@@ -27,7 +27,7 @@ On the new dataset that has geo locations:
 - Filter out where cancelled calls field = True, report only field = True, nature = Transport to Animal Shelter, 
 - Remove unnecessary fields related to location as: statbeat, ra
 - Associate codes for text fields
-- Manipulate calltime field: split into many fields: year, month, day, dayOfWeek (already exists), hour, and minute.
+- Manipulate calltime field: split into many fields: year, month, dayOfMonth, dayOfWeek (already exists), hour, and minute, then drop the field and the timeclose field.
 
 Topics/ Hypothesis/ Assigned Tasks
  - Relationships between trending natures for calls and each agency; patterns between geographic area and leading calls’ natures; identification of predictors of emergency call categorization as “sick person”-later on if time permits.(Oana)
