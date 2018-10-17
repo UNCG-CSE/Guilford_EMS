@@ -1,0 +1,12 @@
+In this project, we are working with the Guilford County's Public Safety data sets which includes call records from the following agency: Animal Control,  Emergency Medical Service, 
+Guilford County Sheriff Department, Guilford County Fire Department.
+
+We want to analyze if the allocation of the resources thowards the different tasks is equitable and eventually make suggestions about how they can allocate resources in a better way.
+
+In order to achieve that, here are some of the tasks that each member has to investigate:
+
+    Relationships between reasons for calls and each agency; patterns between geographic area and top reasons for calls/natures with the highest priority call volume; for some of the natures, apply machine learning to predict them; based on the location of the calls, use machine learning to make suggestions for future desired locations for hospitals, animal center, etc; identification of predictors of emergency call categorization as “sick person”-later on if time permits
+    Correlate time of the call with the nature of the call, and understand the patterns in which the calls happen in terms of time as hours, days, and months.
+    Response reaction time based on nature.
+    Nature and matching priority(priority always based on operator, is it over time changed).
+
