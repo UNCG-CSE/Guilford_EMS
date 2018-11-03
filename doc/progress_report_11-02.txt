@@ -9,12 +9,24 @@ What are their implications
 --------------------------------------------
 Linh
 Question asked
+  - Will the response time become slower if a particular call nature receive significantly more calls?
+  - will the response time also become slower during any particular day, time, or weeks, or months?
+    (note: this question has not been fully examined)
 Why was the question asked?
+  - I would like to examine the relationship between the volume of calls and average response time. 
 Describe the method
+  - Remove the outliner, create new data frames with call volumes and average response time
+  - Graph the results
 What was done to solve for the question?
+  - graph the data columns
+  - Finding the correlation between the call volume and respone time 
 Describe outcomes.
+  - The call response time remain realatively unchanged despite the call volumes have increased. 
 What were the outcomes
+  - No significant correlation between the 2 data columns
 What are their implications
+  - High call volume does not shorten the response time of the agences.
+  - This could be due to most called got routed to the agences were within a radius distance, calls outside of the radio were routed to agences from different district. 
 --------------------------------------------
 Oana
 Question asked
