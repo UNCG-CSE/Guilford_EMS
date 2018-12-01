@@ -1,0 +1,6 @@
+Final Progress Report
+
+For the final Project I tried to create a Machine Learning Classifier that will guess the priority of the nature of the call based on come of the features in the data set. The data is categorical so a classifier should work better then a regression model.
+
+I ran into error with missing values so drop all the values with any nan values to get rid of the complication because there is alot of data and I didnt want to try to summarize any of the columns.
+For this I use the K Neighbors, decision Tree and Random Forest Algorithms because these are common ones. I also tried SVC but it took to long and after two days it didnt finish, and that was with only 1000  samples with 100 samples the accuracy was too low.
