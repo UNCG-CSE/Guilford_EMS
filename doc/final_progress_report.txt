@@ -15,3 +15,12 @@ For the final project I tried to create a Machine Learning Classifier that will 
 I ran into error with missing values so drop all the values with any nan values to get rid of the complication because there is alot of data and I didnt want to try to summarize any of the columns.
 
 For this I use the K Neighbors, decision Tree and Random Forest Algorithms because these are common ones. I also tried SVC but it took to long and after two days it didnt finish, and that was with only 1000  samples with 100 samples the accuracy was too low.
+
+Saed SayedAhmed
+
+1. Some Data Visualization using the notebooks of "Data Visualization".
+2. Supervised Machine Learning to Predict "Agency" related to a certain call using Call Time, Location of Call, and Call source.
+  * RandomForestClassifier and GradientBoostingClassifer where used to train the data.
+  * To improve the performance, created a label-balanced dataset.
+  * Got 77% accuracy, 77% precision, 77% recall, and 0.93 AU-ROC.
+  * This model can be used to alert a certain agency of a potential duty, in order to prepare themselves.
