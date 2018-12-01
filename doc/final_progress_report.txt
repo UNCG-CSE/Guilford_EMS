@@ -1,0 +1,8 @@
+Oana Dumitrescu
+
+1. Predicting time needed for situation resolution since the moment of arrival to the moment of transport.
+Used different machine learning models like Linear Regression, Random Forest Regression.
+2. Predict natures - 4 most popular natures, using Logistic Regression, K neighrest neighbors, Random Forest Classifier.
+Highest performance for Random Forest Classifier with accuracy of 0.7.
+3. Predicting locations for new hospitals, animal shelters, fire stations, police stations using KMeans with 1 cluster.
+Find the center of that cluster.
